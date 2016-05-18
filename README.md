@@ -1,0 +1,2 @@
+# Bayes
+Bayesi statisztika
